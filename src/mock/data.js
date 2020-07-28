@@ -9,9 +9,9 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hey, my name is',
+  title: 'Hi 👋 My name is',
   name: 'Devin Stagg.',
-  subtitle: 'Experienced Marketer and Aspiring Web Developer ',
+  subtitle: 'Experienced Marketer and Aspiring Web Developer.',
   cta: 'Contact Me',
 };
 
@@ -37,11 +37,11 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'stromma_active.png',
-    title: 'Stromma Active',
-    info: 'Built eCommerce website using Shopify.',
-    info2: 'Consulted on general marketing strategy for Facebook ads, email marketing, and social media.',
-    url: 'https://www.strommaactive.com/',
+    img: 'pupford.png',
+    title: 'Pupford',
+    info: 'Ran all marketing to grow company from first $1,000 to first $2 million + in sales.',
+    info2: 'Handled initiatives and strategy for email, lead gen, SEO, social media, paid social, PPC, landing page building, and more.',
+    url: 'https://pupford.com/',
     repo: '', // if no repo, the button will not show up
   },
   {
