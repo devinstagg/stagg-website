@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'devin_stagg_headshot.JPG',
-  paragraphOne: '🐾 Marketing Manager at Pupford',
+  paragraphOne: '🐾 All Things Marketing (seriously!) at Pupford',
   paragraphTwo: '📣 Freelance Marketing Consulting',
   paragraphThree: '👨🏼‍💻 Aspiring Web/Software Developer',
   resume: 'https://www.linkedin.com/in/devinstagg7/', // if no resume, the button will not show up
