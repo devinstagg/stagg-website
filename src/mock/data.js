@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi 👋 My name is',
   name: 'Devin Stagg.',
-  subtitle: 'I can build you a website and help grow your business.',
+  subtitle: 'I can build you a website and also help grow your business.',
   cta: 'Contact Me',
 };
 
@@ -57,7 +57,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Ready to chat about your next marketing or website project?',
+  cta: 'Affordable and reasonable pricing, contact me to get your project started today!',
   btn: 'Contact Me',
   email: 'devinstagg7@gmail.com',
 };
