@@ -11,16 +11,16 @@ export const headData = {
 export const heroData = {
   title: 'Hi 👋 My name is',
   name: 'Devin Stagg.',
-  subtitle: 'Experienced Marketer and Novice Software Developer.',
+  subtitle: 'I can build you a website and help grow your business.',
   cta: 'Contact Me',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'devin_stagg_headshot.JPG',
-  paragraphOne: '🐾 All Things Marketing (seriously!) at Pupford',
-  paragraphTwo: '📣 Freelance Marketing Consulting',
-  paragraphThree: '👨🏼‍💻 Aspiring Web/Software Developer',
+  paragraphOne: '📱 Build an eCommerce, service-based, or blog-style website that converts.',
+  paragraphTwo: '📣 Consult on SEO, email marketing, social media ads, and more.',
+  paragraphThree: '👨🏼‍💻 Help you understand your market and create valuable content to entice potential customers.',
   resume: 'https://www.linkedin.com/in/devinstagg7/', // if no resume, the button will not show up
 };
 
